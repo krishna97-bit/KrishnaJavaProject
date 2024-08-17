@@ -1,0 +1,18 @@
+Constructor Notes
+
+-Constructor is special member of class which is used to initialise the variables by using object.
+-Constructor is also initializes default variables which is present in our class.
+-Constructor name is always same as a class name
+-When ever we creating object of class then constructor will execute automatically
+( No need to call constructor for execution)
+- constructor does not have return type..
+
+-Types of constructor
+1) default constructor
+2) User define constructor
+a) constructor with param
+b) constructor without param
+
+
+- constructor chaining
+

@@ -1,0 +1,12 @@
+Access modifier
+- As we know this we have 4 types of access modifier are there in java
+1) public
+2) default
+3) private
+4) protected
+
+1) public
+- scope of public access modifier is through out the project
+- We can inherit the properties from class to class or package to package
+- We can use public access modifier to class , methods , and variables
+
