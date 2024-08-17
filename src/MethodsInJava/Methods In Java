@@ -1,0 +1,19 @@
+Methods In Java
+- Set's of code which is used to perform some action in that class is known  as Methods
+- Types of Methods
+1) static method
+2) Non static method
+3) method without arguments
+4) Method with arguments but return type is not void
+5) method without arguments return type is not void
+
+1)  static method
+- The method which is declare with static keyword
+- For calling static methods we don't need to create object of that particular class
+we can directly call that method by using method name
+
+public static void staticMethod()
+{
+System.out.println("Print static method")
+}
+

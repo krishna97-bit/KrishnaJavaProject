@@ -1,0 +1,29 @@
+Abstraction Notes-
+Hiding implementation code  from end user and provide only the functionality of that particular code
+This concept is known as abstraction
+- Hind the code
+
+Properties of Abstraction
+1) Abstract class contains non-abstract method as well as abstract methods
+2) Non-abstract class does not contains abstract methods
+3) we can not create object of abstract class because abstract contains abstract methods
+
+
+
+Abstract methods-
+Methods declaration present but method implementation (Body Of that method) is absent.
+Abstract methods always start with abstract keyword.
+
+
+Abstract void abstractMethod();
+
+
+
+Non-abstract methods-
+-Method declaration and method implementation both ae present.
+-Non-abstract methods can start with any access modifier
+
+public void NonAbstractMethod()
+{
+System.out.println("Non abstract method")
+};

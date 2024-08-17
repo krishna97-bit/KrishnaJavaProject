@@ -1,0 +1,30 @@
+Data type in java
+- mainly we have 2 types of datatype
+1) primitive data type
+2) non-primitive data type
+
+1) primitive data type
+- data size is fixed
+- we have 3 types of primitive data type
+a) numeric data type
+- According to data size we divide numeric data type
+- byte
+- small
+- int
+-long
+-float
+- double
+
+b) char
+- byte ( all char )
+
+c)boolean
+- bit ( true 0r false )
+
+2) Non-primitive data type
+- data size is not fixed
+- we have 3 types of Non-primitive data type
+a) Class
+b) Array
+c) string
+
